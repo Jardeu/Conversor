@@ -1,6 +1,6 @@
-# conversor
+# Conversor
 
-Conversor de moedas
+Aplicativo Conversor de moedas feito em Flutter.
 
 ## Getting Started
 
